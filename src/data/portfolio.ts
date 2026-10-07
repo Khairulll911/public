@@ -89,7 +89,7 @@ export const projects: Project[] = [
       {label:"Lihat Prototype", url:"https://edu-averon-motor.odoo.com/en/vechicle-models"}
     ],
     mediaPlaceholder: "Tempat diagram BPMN [ISI NANTI]",
-    image:"/images/odoo.webp"
+    image:"/public/images/odoo.webp"
   },
   {
     label: "Proyek kelompok 2: Creative Innovation",
@@ -113,7 +113,7 @@ export const projects: Project[] = [
       { label: "Buka desain di Figma", url: "https://www.figma.com/design/pGPFW2lUkOzMy6a7fM1ktR/Hand2Hand-Design?node-id=0-1" },
     ],
     mediaPlaceholder: "Tempat gambar proyek [ISI NANTI]",
-    image:"/images/hand2hand.webp"
+    image:"/public/images/hand2hand.webp"
   },
   {
     label: "Proyek kuliah: Venture",
@@ -136,7 +136,7 @@ export const projects: Project[] = [
       {label:"Project TitipYuk (Canva)", url:"https://canva.link/qgcq3241lv6c7b8"}
     ], // [ISI NANTI: tombol unduh PDF atau link Google Drive]
     mediaPlaceholder: "Dokumen proyek PDF [ISI NANTI: tombol unduh atau link Google Drive]",
-    image:"/images/titipyuk.webp"
+    image:"/public/images/titipyuk.webp"
   },
   {
     label: "Proyek kelompok: Data Modeling",
@@ -156,7 +156,7 @@ export const projects: Project[] = [
       { label: "Lihat file proyek di Google Drive", url: "https://drive.google.com/drive/folders/1EbXFXkNbBI3n0BoAks2CtVw2fMSdK5s1?usp=sharing" },
     ],
     mediaPlaceholder: "Tempat screenshot dashboard [ISI NANTI]",
-    image:"/images/datamodeling.webp"
+    image:"/public/images/datamodeling.webp"
   },
   {
     label: "Proyek kelompok: artikel ilmiah dan video",
@@ -173,7 +173,7 @@ export const projects: Project[] = [
       { label: "Tonton video", url: "https://drive.google.com/file/d/1TiONHEg7KqfoocNp3dG5cLu4xONrMwhX/view?usp=drivesdk" },
     ],
     mediaPlaceholder: "Tempat gambar proyek [ISI NANTI]",
-    image:"/images/ping.webp"
+    image:"/public/images/ping.webp"
   },
   {
     label: "Proyek kelompok 11: desain UI di Figma",
@@ -194,7 +194,7 @@ export const projects: Project[] = [
       { label: "Buka desain di Figma", url: "https://www.figma.com/design/7RBlYKVnLJ9f9ckhqqN2xv/Segarin?node-id=0-1" },
     ],
     mediaPlaceholder: "Tempat gambar proyek [ISI NANTI]",
-    image:"/images/uiux.webp"
+    image:"/public/images/uiux.webp"
   },
   {
     label: "Proyek kelompok: Enterprise Architecture",
@@ -215,7 +215,7 @@ export const projects: Project[] = [
       {label:"Link Pengerjaan Project (Canva)", url:"https://canva.link/sjxq8psnwwzb2st"}
     ], // [ISI NANTI: tombol unduh PowerPoint atau link Google Drive]
     mediaPlaceholder: "Presentasi PowerPoint [ISI NANTI: tombol unduh atau link Google Drive]",
-    image:"/images/seabank.webp"
+    image:"/public/images/seabank.webp"
   },
 ];
 
@@ -225,7 +225,7 @@ export const contact = {
   items: [
     { label: "Email", text: "sudrajatkhairul51@gmail.com", url: "mailto:sudrajatkhairul51@gmail.com" },
     { label: "WhatsApp", text: "0821 3047 0933", url: "https://wa.me/6282130470933" },
-    { label: "LinkedIn", text: "Khairul Sudrajat", url: "www.linkedin.com/in/khairul-sudrajat-9a77253ba" },
+    { label: "LinkedIn", text: "Khairul Sudrajat", url: "https://www.linkedin.com/in/khairul-sudrajat-9a77253ba?utm_source=share_via&utm_content=profile&utm_medium=member_android" },
     { label: "Instagram", text: "@khairulsudrajatt", url: "https://www.instagram.com/khairulsudrajatt/" },
   ],
 };
