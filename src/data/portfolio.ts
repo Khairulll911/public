@@ -226,7 +226,6 @@ export const contact = {
     { label: "Email", text: "sudrajatkhairul51@gmail.com", url: "mailto:sudrajatkhairul51@gmail.com" },
     { label: "WhatsApp", text: "0821 3047 0933", url: "https://wa.me/6282130470933" },
     { label: "LinkedIn", text: "Khairul Sudrajat", url: "https://www.linkedin.com/in/khairul-sudrajat-9a77253ba?utm_source=share_via&utm_content=profile&utm_medium=member_android" },
-    { label: "Instagram", text: "@khairulsudrajatt", url: "https://www.instagram.com/khairulsudrajatt/" },
   ],
 };
 
