@@ -38,13 +38,13 @@ export const about = [
 // UBAH GAMBAR: isi image dengan path gambar Anda, misal "/images/keahlian-erp.jpg"
 // (taruh file gambarnya di folder public/images/). Kosongkan ("") untuk placeholder.
 export const skills = [
-  { name: "Analisis proses bisnis", desc: "memetakan alur kerja dan mencari bagian yang bisa diperbaiki.", image: "/images/img.png" },
-  { name: "Flowchart dan BPMN", desc: "menggambarkan proses antar departemen supaya mudah dipahami tim.", image: "/images/img1.png" },
-  { name: "Perancangan sistem", desc: "menerjemahkan kebutuhan bisnis menjadi rancangan sistem.", image: "/images/img2.webp" },
+  { name: "Analisis proses bisnis", desc: "memetakan alur kerja dan mencari bagian yang bisa diperbaiki.", image: "/public/images/img.png" },
+  { name: "Flowchart dan BPMN", desc: "menggambarkan proses antar departemen supaya mudah dipahami tim.", image: "/public/images/img1.png" },
+  { name: "Perancangan sistem", desc: "menerjemahkan kebutuhan bisnis menjadi rancangan sistem.", image: "/public/images/img2.webp" },
   { name: "ERP Odoo", desc: "konfigurasi modul Manufacturing dan Inventory, dan simulasi alur end-to-end.", image: "/images/img3.webp" },
   { name: "Analisis bisnis", desc: "analisis pesaing, model pendapatan, struktur biaya, dan break even point.", image: "/images/img4.webp" },
-  { name: "Analisis data di Excel", desc: "Power Pivot, DAX, Pivot Table, dan dashboard interaktif.", image: "/images/img5.png" },
-  { name: "UI/UX dan Figma", desc: "persona, customer journey map, dan prototype aplikasi mobile.", image: "/images/img6.webp" },
+  { name: "Analisis data di Excel", desc: "Power Pivot, DAX, Pivot Table, dan dashboard interaktif.", image: "/public/images/img5.png" },
+  { name: "UI/UX dan Figma", desc: "persona, customer journey map, dan prototype aplikasi mobile.", image: "/public/images/img6.webp" },
 ];
 
 // ---------- PENDIDIKAN (terbaru di atas) ----------
