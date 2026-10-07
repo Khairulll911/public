@@ -24,7 +24,7 @@ export const hero = {
   role: "Mahasiswa Sistem Informasi",
   summary:
     "Tertarik pada business process, system analysis, dan ERP. Saya belajar membantu perusahaan menjalankan proses bisnis dengan lebih efektif lewat teknologi.",
-  photo: "public/images/facee.webp", // [ISI NANTI] path foto profil, contoh: "/images/foto.jpg"
+  photo: "/public/images/facee.webp", // [ISI NANTI] path foto profil, contoh: "/images/foto.jpg"
 };
 
 // ---------- TENTANG ----------
