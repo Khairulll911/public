@@ -70,7 +70,7 @@ export const experience = [
 // Untuk menambah proyek: salin satu objek { ... } di bawah, tempel, lalu ubah isinya.
 export const projects: Project[] = [
   {
-    label: "Proyek kuliah: Implementasi ERP",
+    label: "Proyek Kuliah: Implementasi ERP",
     title: "Implementasi ERP Odoo pada perusahaan manufaktur mobil",
     description:
       "Averon Motor adalah perusahaan fiktif produsen mobil premium kelas Gran Turismo. Proyek ini mensimulasikan penerapan ERP Odoo untuk menyatukan pembelian, produksi, inventori, penjualan, keuangan, dan SDM dalam satu sistem.",
@@ -92,8 +92,8 @@ export const projects: Project[] = [
     image:"/public/images/odoo.webp"
   },
   {
-    label: "Proyek kelompok 2: Creative Innovation",
-    title: "Hand2Hand: platform lelang barang preloved",
+    label: "Proyek Kelompok : Creative Innovation",
+    title: "Hand2Hand: Platform Lelang Barang Preloved",
     description:
       "Hand2Hand (#BarangBekasNilaiBerkelas) adalah rancangan platform jual beli barang bekas yang menekankan kepercayaan. Barang dievaluasi lebih dulu, lalu dijual lewat sistem lelang yang transparan. Proyek ini lengkap dari riset pengguna, validasi ke dua expert, model bisnis, sampai prototype aplikasi.",
     details: [
@@ -116,12 +116,12 @@ export const projects: Project[] = [
     image:"/public/images/hand2hand.webp"
   },
   {
-    label: "Proyek kuliah: Venture",
+    label: "Proyek Kuliah: Venture",
     title: "TitipYuk: Marketplace Jasa Titip berbasis Website",
     description:
       "TitipYuk adalah ide bisnis website marketplace yang mempertemukan penyedia jasa titip (jastip) dengan customer yang ingin membeli barang dari kota atau negara lain. Penyedia jasa membuat profil, mengunggah jadwal perjalanan, menentukan biaya, dan mencantumkan jenis barang. Customer mencari, membandingkan, lalu memesan lewat website.",
     details: [
-      { term: "Peran saya", value: "Pengguna kesulitan mencari lomba yang cocok, harus membuka banyak situs, dan proses pendaftarannya panjang." },
+      { term: "Masalah", value: "Pengguna kesulitan mencari lomba yang cocok, harus membuka banyak situs, dan proses pendaftarannya panjang." },
       { term: "Peran saya", value: "Anggota tim pengusul ide bisnis (lima orang)." },
       { term: "Tools", value: "Riset pasar, analisis peluang bisnis" },
       { term: "Hasil", value: "Konsep bisnis lengkap: peluang pasar, riset awal, fitur utama, pembeda dari media sosial, dan rencana jangka panjang." },
@@ -139,8 +139,8 @@ export const projects: Project[] = [
     image:"/public/images/titipyuk.webp"
   },
   {
-    label: "Proyek kelompok: Data Modeling",
-    title: "Dashboard analisis penjualan video game di Excel",
+    label: "Proyek Kelompok : Data Modeling",
+    title: "Dashboard Analisis Penjualan Video Game di Excel",
     description:
       "Proyek akhir mata kuliah Data Modeling (kelompok 8, tiga anggota). Kami mengolah dataset penjualan video game global menjadi dashboard interaktif yang bisa difilter berdasarkan genre, tahun rilis, dan platform.",
     details: [
@@ -159,8 +159,8 @@ export const projects: Project[] = [
     image:"/public/images/datamodeling.webp"
   },
   {
-    label: "Proyek kelompok: artikel ilmiah dan video",
-    title: "Memperkuat persatuan melalui toleransi di kalangan siswa",
+    label: "Proyek Kelompok: Artikel Ilmiah dan Video",
+    title: "Memperkuat Persatuan Melalui Toleransi di Kalangan Siswa",
     description:
       "Artikel ilmiah dan video kelompok tentang bagaimana toleransi di antara siswa dapat memperkuat persatuan, dikaitkan dengan nilai SDGs 16 (perdamaian, keadilan, dan kelembagaan yang kuat).",
     details: [
@@ -176,8 +176,8 @@ export const projects: Project[] = [
     image:"/public/images/ping.webp"
   },
   {
-    label: "Proyek kelompok 11: desain UI di Figma",
-    title: "Segarin: aplikasi mobile belanja kebutuhan harian",
+    label: "Proyek kelompok : Desain UI di Figma",
+    title: "Segarin: Aplikasi Mobile Belanja Kebutuhan Harian",
     description:
       "Segarin adalah rancangan aplikasi belanja kebutuhan sehari-hari yang diantar ke rumah. Pengguna bisa mencari produk, memesan, membayar, dan melacak pengiriman dalam satu aplikasi. Desain ini saya kerjakan bersama kelompok 11 (lima anggota).",
     details: [
@@ -197,7 +197,7 @@ export const projects: Project[] = [
     image:"/public/images/uiux.webp"
   },
   {
-    label: "Proyek kelompok: Enterprise Architecture",
+    label: "Proyek Kelompok: Enterprise Architecture",
     title: "Enterprise Architecture untuk SeaBank",
     description:
       "Kajian Enterprise Architecture pada SeaBank, bank digital di Indonesia. Kami memetakan proses bisnis, budaya organisasi, nilai EA bagi bank, risiko penerapannya, dan langkah implementasinya.",
